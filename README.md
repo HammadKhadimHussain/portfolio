@@ -2,7 +2,7 @@
 
 A simple portfolio.
 
-### [live preview](https://github.com/HammadKhadimHussain/portfolio.git)
+### [live preview](https://hammadkhadimhussain.github.io/portfolio/)
 
 
 ### Thanks
