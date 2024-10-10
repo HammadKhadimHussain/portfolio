@@ -13,7 +13,7 @@ const introdata = {
         fourth: "Feel free to review my portfolio and learn more about me through the links below.",
     },
     description: "",
-    your_img_url: "mains.png",
+    your_img_url: "newimag.png",
 };
 
 const dataabout = {
